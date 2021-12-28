@@ -1,0 +1,388 @@
+[
+    {
+        "lugar misa": "Ahuisculco Jal",
+        "preciomusico": "1200",
+        "comision": "250",
+        "carros": "1",
+        "kilometros": "60",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "lugar": "Ahuisculco Jal"
+            }
+        ],
+        "costo gasolina": "25"
+    },
+    {
+        "lugar misa": "Ahuisculco Jal",
+        "preciomusico": "1200",
+        "comision": "250",
+        "carros": "1",
+        "kilometros": "60",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "violines": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "tenores": "1"
+            },
+            {
+                "lugar": "Ahuisculco Jal"
+            }
+        ],
+        "costo gasolina": "25"
+    },
+    {
+        "lugar misa": "Ahuisculco Jal",
+        "preciomusico": "1200",
+        "comision": "250",
+        "carros": "2",
+        "kilometros": "60",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "percusion": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "trompetas": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "contraltos": "1"
+            },
+            {
+                "tenores": "1"
+            },
+            {
+                "bajos": "1"
+            },
+            {
+                "lugar": "Ahuisculco Jal"
+            }
+        ],
+        "costo gasolina": "25"
+    },
+    {
+        "lugar misa": "Ahuisculco Jal",
+        "preciomusico": "1200",
+        "comision": "250",
+        "carros": "2",
+        "kilometros": "60",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "percusion": "1"
+            },
+            {
+                "violines": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "trompetas": "1"
+            },
+            {
+                "sopranos": "2"
+            },
+            {
+                "contraltos": "1"
+            },
+            {
+                "tenores": "1"
+            },
+            {
+                "bajos": "1"
+            },
+            {
+                "lugar": "Ahuisculco Jal"
+            }
+        ],
+        "costo gasolina": "25"
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "",
+        "comision": "",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "250",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "250",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "violines": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "contraltos": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "250",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "percusion": "1"
+            },
+            {
+                "violines": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "trompetas": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "contraltos": "1"
+            },
+            {
+                "tenores": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "250",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "percusion": "1"
+            },
+            {
+                "violines": "2"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "trompetas": "1"
+            },
+            {
+                "sopranos": "2"
+            },
+            {
+                "contraltos": "2"
+            },
+            {
+                "tenores": "2"
+            },
+            {
+                "bajos": "2"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "600",
+        "comision": "400",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "percusion": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "contraltos": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "100",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "100",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "tenores": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "100",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "violines": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "tenores": "1"
+            }
+        ],
+        "costo gasolina": ""
+    },
+    {
+        "lugar misa": "",
+        "preciomusico": "700",
+        "comision": "100",
+        "carros": "",
+        "kilometros": "",
+        "musicos": [
+            {
+                "organo": "1"
+            },
+            {
+                "percusion": "1"
+            },
+            {
+                "violines": "1"
+            },
+            {
+                "cellos": "1"
+            },
+            {
+                "trompetas": "1"
+            },
+            {
+                "sopranos": "1"
+            },
+            {
+                "contraltos": "1"
+            },
+            {
+                "tenores": "1"
+            }
+        ],
+        "costo gasolina": ""
+    }
+]
